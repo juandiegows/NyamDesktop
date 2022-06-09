@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyamDesktop", "NyamDesktop\NyamDesktop.csproj", "{EB3042B2-5B7C-4F6D-AA2C-8E3E74CC08BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3042B2-5B7C-4F6D-AA2C-8E3E74CC08BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3042B2-5B7C-4F6D-AA2C-8E3E74CC08BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3042B2-5B7C-4F6D-AA2C-8E3E74CC08BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3042B2-5B7C-4F6D-AA2C-8E3E74CC08BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29624E0-3BFA-46EA-87B4-63C5DD07DA46}
+	EndGlobalSection
+EndGlobal
